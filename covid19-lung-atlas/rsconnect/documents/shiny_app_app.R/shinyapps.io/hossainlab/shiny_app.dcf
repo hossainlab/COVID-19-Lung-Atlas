@@ -1,0 +1,12 @@
+name: shiny_app
+title: shiny_app
+username: hossainlab
+account: hossainlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16685848
+bundleId: 11589552
+url: https://hossainlab.shinyapps.io/shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

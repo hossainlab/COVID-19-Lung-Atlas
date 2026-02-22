@@ -1,0 +1,12 @@
+name: covid19-lung-atlas
+title: covid19-lung-atlas
+username: hossainlab
+account: hossainlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16694338
+bundleId: 11613253
+url: https://hossainlab.shinyapps.io/covid19-lung-atlas/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
